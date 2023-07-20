@@ -1,4 +1,4 @@
-# Appium Boilerplate
+# WebDriverIO Mobile Automation Demo
 
 **NOTE:** This boilerplate is for Webdriver V7 where the tests are written with `async`/`await` and TypeScript. If you need a boilerplate for sync mode then check the following:
 
